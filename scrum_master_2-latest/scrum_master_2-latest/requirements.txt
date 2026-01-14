@@ -9,7 +9,9 @@ pinecone
 # AI/ML
 google-generativeai==0.3.2
 sentence-transformers==2.2.2
-numpy==1.24.3
+numpy==1.26.4
+
+
 
 # Utilities
 python-dotenv
